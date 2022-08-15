@@ -30,6 +30,6 @@
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react native">
 </div>
 
-[![imagem](https://c.tenor.com/IoooQf-AFnUAAAAd/code-programmer.gif)]()<br/>
+[![imagem](https://c.tenor.com/IoooQf-AFnUAAAAd/code-programmer.gif)]()
 
 ### Apaixonado por aprender novas tecnologias❤️
