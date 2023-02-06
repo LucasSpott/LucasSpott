@@ -1,16 +1,21 @@
-# Bem-vindos
+<h2>Olá <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/null/external-user-edutainment-flaticons-lineal-color-flat-icons.png"/></h2>
 
-### Sou lucas tenho 19 anos, desde novo sempre adorei o ramo tecnológico, tendo já experiências com algumas linguagens de programação por incentivo familiar.
+<h3>Breve resumo</h3>
+<p>Sou Lucas tenho 19 anos, moro em Minas Gerais, gosto muito da área tecnológica desde novo, sempre fui "nerd" na escola pois sempre gostei de estudar.</p>
+  
+<h3>Hobbies</h3>
+<p>Gosto muito de música, arrisco a dizer que é a atividade que mais faço em um dia, gosto de aprender ou estudar, também gosto de instrumentos musicais e jogos.</p>
 
-### Tenho como foco em minhas características a criatividade, além de ser proativo, determinado e firme.
+<h3>Projetos</h3>
+<p>Tenho projetos na Google Play e Xbox, como jogos e aplicativos em nome de minha empresa fictícia, <a src="isabelastudios.com">Isabela Studios</a>.</p>
 
+<h3>Linguagens que mais amo usar</h3>
 
-## Linguagens que geralmente uso:
+<h4>Javascript <img src="https://img.icons8.com/color/48/null/javascript--v1.png"/></h4>
+<p>Em minha percepção eu coloco meu nível em intermediário/avançado, gosto muito mas não é das minhas prediletas.</p>
 
-### PHP C# PYTHON
+<h4>C# <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png"/></h4>
+<p>Adoro usa-la pelo fato de usar a Unity Engine, mesmo sabendo que na programação a lógica é igual a todas e que nós usamos a biblioteca.</p>
 
-### Gosto do back-end e front-end, sem preferências.
-
-### Trabalho Muito bem em equipe.
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDWiXfhd94atXsV-urAjfDZniE_eBDgyvP9Q&usqp=CAU" width="100px" />
+<h4>Python <img src="https://img.icons8.com/color/48/null/python--v1.png"/></h4>
+<p>Outra linguagem que adoro usar, fácil, organizada e fullstack.</p>
